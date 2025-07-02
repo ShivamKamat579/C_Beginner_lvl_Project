@@ -1,12 +1,6 @@
 # C_Beginner_lvl_Project
 💻 A collection of beginner-level C programming projects designed to build a strong foundation in logic, syntax, and problem-solving. Each project includes clear code, comments, and real-world relevance for hands-on learning.
 
-# C_Beginner_lvl_Project
-
-A curated collection of beginner-level C programming projects designed to strengthen core concepts, improve logical thinking, and provide hands-on coding experience.
-
----
-
 ## 🎯 Objective
 
 The goal of this repository is to help beginners:
