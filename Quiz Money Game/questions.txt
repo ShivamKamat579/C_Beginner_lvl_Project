@@ -1,0 +1,69 @@
+What is the capital of India?
+A) Mumbai
+B) Delhi
+C) Kolkata
+D) Hyderabad
+B
+
+Which data type is used to store decimal numbers in C?
+A) int
+B) float
+C) char
+D) double
+B
+
+Who invented the C programming language?
+A) Charles Babbage
+B) James Gosling
+C) Dennis Ritchie
+D) Bjarne Stroustrup
+C
+
+Which keyword is used to define a constant in C?
+A) static
+B) const
+C) define
+D) constant
+B
+
+Which of the following is a loop structure in C?
+A) for
+B) switch
+C) if
+D) break
+A
+
+Which symbol is used to include header files?
+A) &
+B) #
+C) $
+D) @
+B
+
+Which function is used to print output in C?
+A) cin
+B) cout
+C) print()
+D) printf()
+D
+
+What is the extension of a C source file?
+A) .cpp
+B) .java
+C) .py
+D) .c
+D
+
+Which escape character is used for a new line in C?
+A) \t
+B) \r
+C) \n
+D) \a
+C
+
+What does 'int main()' return if the program runs successfully?
+A) 0
+B) 1
+C) -1
+D) 100
+A
